@@ -1,0 +1,1 @@
+In this project, you will find shortcuts regarding the program Vi, or Vim.
