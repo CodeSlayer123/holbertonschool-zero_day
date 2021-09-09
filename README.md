@@ -1,0 +1,1 @@
+This is the readme for the holbertonschool-zero_day repository. In this project we will work with emacs.
